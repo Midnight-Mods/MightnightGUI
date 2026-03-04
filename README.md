@@ -15,7 +15,7 @@ once installed go to the folder with Shift At Midnight;
 Go to Mods > put the DLL in there;
 MidnightMenu is now installed!
 
-Updates & Progression: MidnightMenu is not gaurenteed to work forever if the game is updated and the menu breaks IT BREAKS. IF this mod is continued by Midnight-Mods it will be updated in reasonable times as long as its not discontinued.
+Updates & Progression: MidnightMenu is not guaranteed to work forever if the game is updated and the menu breaks IT BREAKS. IF this mod is continued by Midnight-Mods it will be updated in reasonable times as long as its not discontinued.
 
 Thank You-Midnight-Mods.
 Contact: None Yet.
