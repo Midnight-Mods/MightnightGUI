@@ -1,6 +1,6 @@
 Welcome to MidnightMenu created by Midnight-Mods! This GUI brings a brand new adventure into the modding world! Warning: This DLL is only for the game Shift At Midnight
 
-Disclaimer: Any actions took against you including but not limited too. Bans, Kicks, Reports, and more. This mod is for use between friends and not used against random people who do not agree to play with you. Midnight-Mods is no responsible for anything that can or could happen with this mod.
+Disclaimer: Any actions took against you including but not limited too. Bans, Kicks, Reports, and more. This mod is for use between friends and not used against random people who do not agree to play with you. Midnight-Mods is not responsible for anything that can or could happen with this mod.
 
 Controls: Open Menu; Right Shift (Toggle) Auto Network Spam; O (Toggle)
 
