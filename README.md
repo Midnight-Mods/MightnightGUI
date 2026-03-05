@@ -15,3 +15,6 @@ Go to Mods > put the DLL in there; MidnightMenu is now installed!
 Updates & Progression: MidnightMenu is not guaranteed to work forever if the game is updated and the menu breaks IT BREAKS. IF this mod is continued by Midnight-Mods it will be updated in reasonable times as long as its not discontinued.
 
 Thank You-Midnight-Mods. Contact: None Yet. Founders: Midnight-Modding
+
+About:
+A shift at Midnight menu created by Midnight Mods! Comes with 15+ mods for network destruction, unlimited amount of coins and more. Prepare for mass chaos, as this mod is just starting. Midnight menu is a open source projects designed to allow other people to create and continue the work of Midnight Mods! Use MidnightMenu with people who agree to play with you and not random people.
